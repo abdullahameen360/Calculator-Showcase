@@ -1,10 +1,13 @@
-# 🧮 Basic Calculator
+<img width="775" height="799" alt="image" src="https://github.com/user-attachments/assets/51e096ea-367b-41e1-8354-46277eabe00f" /># 🧮 Basic Calculator
 
 A clean, responsive web calculator built with **HTML**, **CSS**, and **vanilla JavaScript** — no libraries, no frameworks, just pure front-end fundamentals.
 
 ---
 
 ## 📸 Preview
+
+<img width="775" height="799" alt="image" src="https://github.com/user-attachments/assets/4d9ba120-cbbb-4ccd-98e9-2546eaad4eea" />
+
 
 
 
