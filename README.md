@@ -47,7 +47,6 @@ No setup needed. Just open the project in your browser:
 
 ```bash
 git clone https://github.com/abdullahameen360/Calculator-Showcase
-cd your-repo
 
 ```
 
